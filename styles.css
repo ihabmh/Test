@@ -1,0 +1,27 @@
+  @import url(https://font.googleapis.com/css?family=Montserrat:400,700);
+  body {background-color: #2c2c2c;color: #ffffff;margin: 0;font-family: 'Montserrat'sans-serif;}
+  p { color:#dedede;font-size:12px;line-height: 1.5;}
+  h4 { font-family: ABeeZee;}
+  #header {background-color:black ; height: 50px; line-height: 50px;margin: 0;}
+  #header a {color: white;text-decoration: none;text-transform: uppercase ;letter-spacing: 0.1em;font-size: 15px;font-family: ABeeZee;}
+  #header a:hover { color:#222;}
+  #header-tittle {dispaly:block; float:left;font-size: 15px;font-weight: bold;}
+  #header-nav {display: block;float: right; margin-top: 0;margin-right: 30px;}
+  #header-nav li {display: inline;padding-left: 20px;}
+  .contrainer { margin-left: 30px;}
+  #content { margin: 0 auto;}
+  .post-container:nth-child(even) {background-color: #3f3f3f;}
+  .post, .about {max-width: 900px ;margin:0 auto;padding: 60px 0;}
+  .about {text-align: center;}
+  .post-author img,.about-author img {border-radius: 50%;}
+  .about-author img {height:200px;width: 200px;}
+  .post-author img { width: 40px;height: 40px;vertical-align: middle;}
+  .post-author span { margin-left: 14px;}
+  .post-date { color:#d2d2d2; font-size: 14px;font-weight: bold;text-transform: uppercase;letter-spacing: 0.1em;}
+  h1 , h2 , h3 , h4 {color: white;}
+  #footer {display: block ; background-color:black ; height: 350px; padding: 10px 0;margin: 0; right: 0px;left: 0px;min-width: 100%;}
+  .column {margin-left: 80px;min-width: 300px; display: inline-block ;vertical-align: top;}
+  #footer h5 { color: white;text-transform: uppercase;letter-spacing: 0.1em;line-height: 20px;}
+  #footer p { color: white;font-size: 10px;}
+  #footer a { color:#1abc9c;text-decoration:none;font-size: 10px;}
+  #footer a:hover { color: #f6a623;}
